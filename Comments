@@ -1,0 +1,8 @@
+Good work all around.
+I like your solution to keeping "alternate" updated if the doofus clicks on a 
+cell that already has a letter.  BUT - that gets in the way of using "alternate == 9" 
+to check for a tie game.  If you just click on the same letter 9 times, it calls it
+a tie.  Of course, if you do that you don't deserve to play anyway, perhaps ...
+
+Good work.
+9/10
